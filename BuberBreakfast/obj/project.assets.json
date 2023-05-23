@@ -481,11 +481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmering\\Portfolio\\BuberBreakfast\\BuberBreakfast.csproj",
+      "projectUniqueName": "D:\\Programmering\\Portfolio\\BreakfastApi\\BuberBreakfast\\BuberBreakfast.csproj",
       "projectName": "BuberBreakfast",
-      "projectPath": "D:\\Programmering\\Portfolio\\BuberBreakfast\\BuberBreakfast.csproj",
+      "projectPath": "D:\\Programmering\\Portfolio\\BreakfastApi\\BuberBreakfast\\BuberBreakfast.csproj",
       "packagesPath": "C:\\Users\\KuRioS\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmering\\Portfolio\\BuberBreakfast\\obj\\",
+      "outputPath": "D:\\Programmering\\Portfolio\\BreakfastApi\\BuberBreakfast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KuRioS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -502,8 +502,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Programmering\\Portfolio\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
-              "projectPath": "D:\\Programmering\\Portfolio\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
+            "D:\\Programmering\\Portfolio\\BreakfastApi\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+              "projectPath": "D:\\Programmering\\Portfolio\\BreakfastApi\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
             }
           }
         }
