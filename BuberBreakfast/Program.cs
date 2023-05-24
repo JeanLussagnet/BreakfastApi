@@ -19,6 +19,7 @@ namespace BuberBreakfast
 
             var app = builder.Build();
             {
+                app.UseExceptionHandler("/error");
                 // Configure the HTTP request pipeline.
                 if (app.Environment.IsDevelopment())
                 {

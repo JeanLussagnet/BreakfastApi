@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ix3bxwsgYLSi6t+T5QWkX05VYXaL8kJ+Q2iKO8lsTWSgOHbtTGNpor1AAG8hAJwHqeRyVIn0ipBrakmc/MJKUQ==",
+  "dgSpecHash": "xNOs5VTprI/8hFfqkRrTAMIdkXuPCL8mlE5uQfsBORFMbY8TTHxFve7RRyV/5jv6M5WYFWlCSXcXXQSEH7t2oA==",
   "success": true,
   "projectFilePath": "D:\\Programmering\\Portfolio\\BreakfastApi\\BuberBreakfast\\BuberBreakfast.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\KuRioS\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\KuRioS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\KuRioS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\KuRioS\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
