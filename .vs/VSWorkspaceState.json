@@ -7,6 +7,6 @@
     "\\BuberBreakfast\\Services",
     "\\BuberBreakfast\\Services\\Breakfasts"
   ],
-  "SelectedNode": "\\BuberBreakfast\\Services\\Breakfasts\\IBreakfastService.cs",
+  "SelectedNode": "\\BuberBreakfast\\Controllers\\BreakfastsController.cs",
   "PreviewInSolutionExplorer": false
 }
